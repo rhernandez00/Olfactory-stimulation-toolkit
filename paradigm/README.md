@@ -19,4 +19,4 @@ Download a copy of the entire folder into the computer which will run the paradi
 
 ## Usage
 
-Execute NAPEmo02.m and hope for the best.
+Plug the device, execute NAPEmo02.m and hope for the best.
