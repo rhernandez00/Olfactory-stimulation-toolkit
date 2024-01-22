@@ -20,3 +20,5 @@ Download a copy of the entire folder into the computer which will run the paradi
 ## Usage
 
 Execute NAPEmo02.m and hope for the best.
+
+The program will generate a log file in a "log" folder containing the details of the acquisition.
