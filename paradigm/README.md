@@ -15,6 +15,8 @@ Last modification: 22/Jan/2024
 
 ## Installation
 
+This program requires PsychToolBox, if you don't have it install, follow the download and install instructions here: (http://psychtoolbox.org/download).
+
 Download a copy of the entire folder into the computer which will run the paradigm. While running it, MATLAB most likely will request to install some additional toolboxes (like the ones related to arduino).
 
 ## Usage
