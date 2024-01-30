@@ -6,7 +6,7 @@ The device has three parts: synchronization control box, stimuli box and clamps.
  
 This part resides outside the scanner, it communicates with an external computer that controls when the stimuli is delivered according to the paradigm.
 
-![Front of syncronization control box](https://github.com/rhernandez00/NAPEmo/tree/main/device/images/front_diagram.png)
+![Front of syncronization control box](https://github.com/rhernandez00/NAPEmo/blob/main/device/images/front_diagram.png?raw=true)
 
 Note. I made up these names. I'm sure that fancy people call this things differently.
 A) Air intake: receives air from an external source.
@@ -20,7 +20,7 @@ F) USB-A cable (not shown in photo). It is connected to the external computer.
 
 The positioning of the stimuli box in the scanner and the clamps is shown in the image below.
 
-![Stimuli box](https://github.com/rhernandez00/NAPEmo/tree/main/device/images/positioning.png)
+![Stimuli box](https://github.com/rhernandez00/NAPEmo/tree/main/device/images/positioning.png?raw=true)
 
 Parts of the box:
 
@@ -30,13 +30,13 @@ C) Air output: after the air crosses the jar, it goes through this tube, which l
 D) Stimuli jar: glass jar containing the cottons with the stimuli. The cap of the jar (photo below) is designed to receive air *C)* that blows into the sample and a second tube *E)* that goes to the clamp in front of the participant.
 E) Box base: 3D printed part. The green is made out of PLA, lower part has inserts to attach the jars, the black circles and the base touching the scanner coil are made of foaming TPU so the jars make a solid fit and the box doesn't slide.
 
-![Jar cap](https://github.com/rhernandez00/NAPEmo/tree/main/device/images/cap.jpg)
+![Jar cap](https://github.com/rhernandez00/NAPEmo/tree/main/device/images/cap.jpg?raw=true)
 
 ## Clamps
 
 3D printed clamps made of PLA (green and yellow parts) with foaming TPU (black). One clamp (left) holds the silicon tubes coming from the *E) Air output* of the stimuli box. The second clamp (right) holds the tube coming from the vacuum cleaner. The clamps can be adjusted so the airflow and the vacuum cleaner is directed towards the participant.
 
-![Clamps](https://github.com/rhernandez00/NAPEmo/tree/main/device/images/clamps.jpg) 
+![Clamps](https://github.com/rhernandez00/NAPEmo/tree/main/device/images/clamps.jpg?raw=true) 
 
 
 This is a device made through several iterations in design after testing. Thanks to Laura, Odin and Kunkun for their help.
