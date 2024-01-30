@@ -3,3 +3,4 @@
  
  - paradigm: MATLAB script that contains the files necessary to run the paradigm in the scanner.
 
+- device: contains files related to the MR-compatible olfactory stimuli delivery device.
