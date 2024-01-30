@@ -6,4 +6,6 @@ The device has two main parts: synchronization control and stimuli.
  
 This part resides outside the scanner, it communicates with an external computer that controls when the stimuli is delivered according to the paradigm.
 
-[[/images/front_diagram.png| Synchronization control]]
+![https://github.com/rhernandez00/NAPEmo/tree/main/device/images/front_diagram.png]
+
+
